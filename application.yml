@@ -1,4 +1,4 @@
-#inside 
+#inside default
 eureka:
   instance:
     prefer-ip-address: true
